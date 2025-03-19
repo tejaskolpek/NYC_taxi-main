@@ -90,9 +90,7 @@ Access the deployed application using the following links:
 
 We welcome contributions! Feel free to open a **pull request** or raise **issues** for improvements.
 
-## 📝 License
 
-This project is licensed under the **MIT License**.
 
 ---
 
