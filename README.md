@@ -19,6 +19,8 @@ The dataset is sourced from the NYC TLC Trip Record Data and contains:
 - **Dagshub + MLflow** – Model tracking and experiment logging
 - **GitHub** – Version control and code repository
 - **Streamlit** – Deployment for an interactive user interface
+![image](https://github.com/user-attachments/assets/b47ab273-03e5-447d-86d5-0a9ec6d70cc7)
+
 
 ## ⚙️ Architecture
 
